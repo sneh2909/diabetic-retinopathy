@@ -3,9 +3,6 @@
 [![Language](https://img.shields.io/badge/language-jupyter%20notebook-blue)](https://jupyter.org/)
 [![Release](https://img.shields.io/badge/release-v1.0-red)](https://github.com/alex-ele-xela/Image-Analysis-Project)
 
-## Report
-
-[![Report](https://img.shields.io/badge/Report-Click%20here-yellow)](https://docs.google.com/document/d/1p6PbRd4CSyZcUI9i0Ot_nixDTvUgF9MdYqnYfoqkzXI/edit#)
 
 ## About
 
