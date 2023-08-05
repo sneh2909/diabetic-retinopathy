@@ -1,7 +1,7 @@
 # diabetic-retinopathy
 
 [![Language](https://img.shields.io/badge/language-jupyter%20notebook-blue)](https://jupyter.org/)
-[![Release](https://img.shields.io/badge/release-v1.0-red)](https://github.com/alex-ele-xela/Image-Analysis-Project)
+[![Release](https://img.shields.io/badge/release-v1.0-red)]
 
 
 ## About
